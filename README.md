@@ -1,2 +1,2 @@
 # Stepik
-Home lessons from Stepik
+Home lessons from Stepik.
